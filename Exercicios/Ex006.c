@@ -1,3 +1,5 @@
+//Crie um programa que verifique a situação de um aluno
+
 #include <stdio.h>
 
 int main(){
