@@ -1,4 +1,4 @@
-/*Escreva um programa em C que leia um número e informe se ele é divisivel por 2, 3 e 5, ou se não é divisivel por nenhum deles.*/
+/*Escreva um programa em C que leia um numero e informe se ele e divisivel por 2, 3 e 5, ou se n�o e divisivel por nenhum deles.*/
 
 #include <stdio.h>
 
